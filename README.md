@@ -1,1 +1,1 @@
-[![Marquee SVG](https://marquee.datf.net/?font=Syne&color=fff&bg=000&width=1000&duration=20000)](https://github.com/datf)
+[![Marquee SVG](https://marquee.datf.net/?width=850&duration=55000&content=++++%E2%80%A2++++DAVID+TENREIRO++++%E2%80%A2++++PHP+%E2%80%A2+PYTHON+%E2%80%A2+C%2b%2b+%E2%80%A2+GO+%E2%80%A2+JAVASCRIPT+%E2%80%A2+SVELTE+%E2%80%A2+CI/CD+%E2%80%A2+GITHUB%20ACTIONS%20AND%20TEMPLATES+%E2%80%A2+DOCKER/PODMAN+CONTAINERS+%E2%80%A2+LINUX+%E2%80%A2+BASH+%E2%80%A2+VIM)](https://github.com/datf)
