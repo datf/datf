@@ -33,7 +33,7 @@ jobs:
 
       - name: Run scraper script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
         run: python scripts/pull_stats.py
 
       - name: Commit and push changes

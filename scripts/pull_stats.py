@@ -3,13 +3,13 @@ from datetime import datetime, timezone
 import os
 import time
 import requests
+import sys
 
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 
 if not GITHUB_TOKEN:
-    raise ValueError(
-        "Error: 'GITHUB_TOKEN' not set."
-    )
+    print("Error: 'GITHUB_TOKEN' not set.")
+    sys.exit(1)
 
 TRAFFIC_FILE = "data/github_traffic.csv"
 REFERRERS_FILE = "data/github_referrers.csv"
@@ -89,7 +89,7 @@ try:
     repos_list = response.json()
 except requests.exceptions.RequestException as e:
     print(f"Failed to fetch repositories: {e}")
-    repos_list = []
+    sys.exit(1)
 
 for r in repos_list:
     if r["private"]:
