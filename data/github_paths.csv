@@ -23,3 +23,11 @@ run_date,repository,path,title,total,unique
 2026-06-20,datf/svgmarquee,/datf/svgmarquee/actions,/actions,1,1
 2026-06-20,datf/svgmarquee,/datf/svgmarquee/blob/main/.github/workflows/main.yml,/blob/main/.github/workflows/main.yml,1,1
 2026-06-20,datf/svgmarquee,/datf/svgmarquee/releases,/releases,1,1
+2026-06-21,datf/SpectatorReplaySkip,/datf/SpectatorReplaySkip,Overview,1,1
+2026-06-21,datf/calc-llc,/datf/calc-llc/blob/master/.github/workflows/ci.yml,/blob/master/.github/workflows/ci.yml,1,1
+2026-06-21,datf/calc-llc,/datf/calc-llc/blob/master/.github/workflows/deploy.yml,/blob/master/.github/workflows/deploy.yml,1,1
+2026-06-21,datf/calc-llc,/datf/calc-llc/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1
+2026-06-21,datf/calc-llc,/datf/calc-llc/blob/master/src/lib/optimizer.test.js,/blob/master/src/lib/optimizer.test.js,1,1
+2026-06-21,datf/svgmarquee,/datf/svgmarquee/actions,/actions,1,1
+2026-06-21,datf/svgmarquee,/datf/svgmarquee/blob/main/.github/workflows/main.yml,/blob/main/.github/workflows/main.yml,1,1
+2026-06-21,datf/svgmarquee,/datf/svgmarquee/releases,/releases,1,1
