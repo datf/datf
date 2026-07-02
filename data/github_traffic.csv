@@ -26,6 +26,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/BakkesmodPluginTemplateV2,0,0,0,0
 2026-06-29,datf/BakkesmodPluginTemplateV2,0,0,2,2
 2026-06-30,datf/BakkesmodPluginTemplateV2,0,0,0,0
+2026-07-01,datf/BakkesmodPluginTemplateV2,0,0,0,0
 2026-06-04,datf/ChatForMe,0,0,1,1
 2026-06-05,datf/ChatForMe,0,0,1,1
 2026-06-06,datf/ChatForMe,0,0,0,0
@@ -53,6 +54,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/ChatForMe,0,0,0,0
 2026-06-29,datf/ChatForMe,0,0,0,0
 2026-06-30,datf/ChatForMe,0,0,0,0
+2026-07-01,datf/ChatForMe,0,0,0,0
 2026-06-04,datf/KingOfTheHill,0,0,1,1
 2026-06-05,datf/KingOfTheHill,0,0,0,0
 2026-06-06,datf/KingOfTheHill,0,0,0,0
@@ -107,6 +109,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/RocketPlugin,0,0,0,0
 2026-06-29,datf/RocketPlugin,0,0,0,0
 2026-06-30,datf/RocketPlugin,0,0,3,2
+2026-07-01,datf/RocketPlugin,1,1,0,0
 2026-06-04,datf/SpectatorReplaySkip,0,0,1,1
 2026-06-05,datf/SpectatorReplaySkip,0,0,0,0
 2026-06-06,datf/SpectatorReplaySkip,0,0,0,0
@@ -134,6 +137,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/SpectatorReplaySkip,0,0,0,0
 2026-06-29,datf/SpectatorReplaySkip,0,0,1,1
 2026-06-30,datf/SpectatorReplaySkip,0,0,2,1
+2026-07-01,datf/SpectatorReplaySkip,0,0,0,0
 2026-06-04,datf/StdGEN,0,0,1,1
 2026-06-05,datf/StdGEN,0,0,0,0
 2026-06-06,datf/StdGEN,0,0,0,0
@@ -154,6 +158,14 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-21,datf/StdGEN,0,0,0,0
 2026-06-22,datf/StdGEN,0,0,0,0
 2026-06-23,datf/StdGEN,0,0,0,0
+2026-06-24,datf/StdGEN,0,0,0,0
+2026-06-25,datf/StdGEN,0,0,0,0
+2026-06-26,datf/StdGEN,0,0,0,0
+2026-06-27,datf/StdGEN,0,0,0,0
+2026-06-28,datf/StdGEN,0,0,0,0
+2026-06-29,datf/StdGEN,0,0,0,0
+2026-06-30,datf/StdGEN,0,0,0,0
+2026-07-01,datf/StdGEN,0,0,1,1
 2026-06-03,datf/big-data-speed-test,0,0,1,1
 2026-06-04,datf/big-data-speed-test,0,0,0,0
 2026-06-05,datf/big-data-speed-test,0,0,0,0
@@ -181,6 +193,8 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-27,datf/big-data-speed-test,0,0,0,0
 2026-06-28,datf/big-data-speed-test,0,0,0,0
 2026-06-29,datf/big-data-speed-test,0,0,0,0
+2026-06-30,datf/big-data-speed-test,0,0,0,0
+2026-07-01,datf/big-data-speed-test,0,0,0,0
 2026-06-04,datf/calc-llc,0,0,32,15
 2026-06-05,datf/calc-llc,0,0,62,24
 2026-06-06,datf/calc-llc,0,0,9,6
@@ -208,6 +222,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/calc-llc,0,0,4,3
 2026-06-29,datf/calc-llc,0,0,23,10
 2026-06-30,datf/calc-llc,0,0,0,0
+2026-07-01,datf/calc-llc,0,0,0,0
 2026-06-04,datf/client-cert-manager,0,0,0,0
 2026-06-05,datf/client-cert-manager,0,0,0,0
 2026-06-06,datf/client-cert-manager,0,0,0,0
@@ -235,6 +250,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/client-cert-manager,0,0,0,0
 2026-06-29,datf/client-cert-manager,0,0,0,0
 2026-06-30,datf/client-cert-manager,0,0,0,0
+2026-07-01,datf/client-cert-manager,0,0,0,0
 2026-06-04,datf/copier-runner,0,0,0,0
 2026-06-05,datf/copier-runner,0,0,0,0
 2026-06-06,datf/copier-runner,0,0,0,0
@@ -262,6 +278,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/copier-runner,0,0,2,2
 2026-06-29,datf/copier-runner,0,0,0,0
 2026-06-30,datf/copier-runner,0,0,0,0
+2026-07-01,datf/copier-runner,0,0,1,1
 2026-06-04,datf/copier-svelte-test,0,0,55,30
 2026-06-05,datf/copier-svelte-test,0,0,53,33
 2026-06-06,datf/copier-svelte-test,0,0,3,3
@@ -289,6 +306,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/copier-svelte-test,0,0,2,2
 2026-06-29,datf/copier-svelte-test,0,0,2,2
 2026-06-30,datf/copier-svelte-test,0,0,2,2
+2026-07-01,datf/copier-svelte-test,0,0,3,3
 2026-06-04,datf/datf,0,0,0,0
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
@@ -316,6 +334,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/datf,0,0,14,9
 2026-06-29,datf/datf,0,0,13,8
 2026-06-30,datf/datf,0,0,12,9
+2026-07-01,datf/datf,0,0,15,10
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-05,datf/dualnottouch,0,0,0,0
 2026-06-06,datf/dualnottouch,0,0,1,1
@@ -343,6 +362,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/dualnottouch,0,0,0,0
 2026-06-29,datf/dualnottouch,0,0,0,0
 2026-06-30,datf/dualnottouch,0,0,0,0
+2026-07-01,datf/dualnottouch,0,0,1,1
 2026-06-04,datf/gaeTestCode,0,0,1,1
 2026-06-05,datf/gaeTestCode,0,0,0,0
 2026-06-06,datf/gaeTestCode,0,0,0,0
@@ -394,6 +414,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/inputattach,0,0,1,1
 2026-06-29,datf/inputattach,0,0,0,0
 2026-06-30,datf/inputattach,0,0,0,0
+2026-07-01,datf/inputattach,0,0,1,1
 2026-06-01,datf/notion-py,0,0,1,1
 2026-06-02,datf/notion-py,0,0,0,0
 2026-06-03,datf/notion-py,0,0,0,0
@@ -424,6 +445,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/notion-py,0,0,0,0
 2026-06-29,datf/notion-py,0,0,1,1
 2026-06-30,datf/notion-py,0,0,0,0
+2026-07-01,datf/notion-py,0,0,0,0
 2026-06-04,datf/pat,0,0,1,1
 2026-06-05,datf/pat,0,0,0,0
 2026-06-06,datf/pat,0,0,1,1
@@ -451,6 +473,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/pat,0,0,0,0
 2026-06-29,datf/pat,0,0,0,0
 2026-06-30,datf/pat,0,0,0,0
+2026-07-01,datf/pat,0,0,0,0
 2026-06-04,datf/pat0,0,0,0,0
 2026-06-05,datf/pat0,0,0,1,1
 2026-06-06,datf/pat0,0,0,1,1
@@ -504,6 +527,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-27,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-28,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-29,datf/svelte-GitHubPages-template,0,0,2,2
+2026-06-30,datf/svelte-GitHubPages-template,0,0,3,3
 2026-06-04,datf/svelte-agents-template,0,0,0,0
 2026-06-05,datf/svelte-agents-template,0,0,0,0
 2026-06-06,datf/svelte-agents-template,0,0,0,0
@@ -531,6 +555,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/svelte-agents-template,0,0,0,0
 2026-06-29,datf/svelte-agents-template,0,0,0,0
 2026-06-30,datf/svelte-agents-template,0,0,0,0
+2026-07-01,datf/svelte-agents-template,0,0,1,1
 2026-06-04,datf/svelte-static-page,0,0,1,1
 2026-06-05,datf/svelte-static-page,0,0,0,0
 2026-06-06,datf/svelte-static-page,0,0,1,1
@@ -558,6 +583,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/svelte-static-page,0,0,0,0
 2026-06-29,datf/svelte-static-page,0,0,0,0
 2026-06-30,datf/svelte-static-page,0,0,0,0
+2026-07-01,datf/svelte-static-page,0,0,0,0
 2026-06-04,datf/sveltekit-github-pages-config-dockerized,0,0,42,25
 2026-06-05,datf/sveltekit-github-pages-config-dockerized,0,0,3,3
 2026-06-06,datf/sveltekit-github-pages-config-dockerized,0,0,15,5
@@ -585,6 +611,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/sveltekit-github-pages-config-dockerized,0,0,1,1
 2026-06-29,datf/sveltekit-github-pages-config-dockerized,0,0,1,1
 2026-06-30,datf/sveltekit-github-pages-config-dockerized,0,0,0,0
+2026-07-01,datf/sveltekit-github-pages-config-dockerized,0,0,2,2
 2026-06-04,datf/svgmarquee,0,0,4,3
 2026-06-05,datf/svgmarquee,0,0,0,0
 2026-06-06,datf/svgmarquee,0,0,1,1
@@ -612,6 +639,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/svgmarquee,0,0,0,0
 2026-06-29,datf/svgmarquee,0,0,1,1
 2026-06-30,datf/svgmarquee,0,0,0,0
+2026-07-01,datf/svgmarquee,0,0,1,1
 2026-06-04,datf/vim-annoyme,0,0,1,1
 2026-06-05,datf/vim-annoyme,0,0,0,0
 2026-06-06,datf/vim-annoyme,0,0,0,0
@@ -639,3 +667,4 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/vim-annoyme,0,0,0,0
 2026-06-29,datf/vim-annoyme,0,0,1,1
 2026-06-30,datf/vim-annoyme,0,0,0,0
+2026-07-01,datf/vim-annoyme,0,0,0,0
