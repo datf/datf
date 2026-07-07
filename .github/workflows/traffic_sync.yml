@@ -18,8 +18,8 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Run traffic script
-        env:
-          GITHUB_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+        with:
+          github_token: ${{ secrets.TRAFFIC_TOKEN }}
         uses: datf/traffic-data@main
 
       - name: Commit and push changes
