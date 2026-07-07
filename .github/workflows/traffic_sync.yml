@@ -20,7 +20,7 @@ jobs:
       - name: Run traffic script
         with:
           github_token: ${{ secrets.TRAFFIC_TOKEN }}
-        uses: datf/traffic-data@main
+        uses: datf/traffic-data@v1
 
       - name: Commit and push changes
         run: |
