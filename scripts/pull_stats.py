@@ -181,6 +181,9 @@ with open(TRAFFIC_FILE, mode="w", newline="", encoding="utf-8") as f:
     )
     writer.writeheader()
     for (repo, date), s in sorted(existing_traffic.items()):
+        # Skip writing this row if all traffic stats are 0
+        if not any(s.values()):
+            continue
         writer.writerow(
             {
                 "date": date,
