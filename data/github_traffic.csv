@@ -68,6 +68,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-07,datf/calc-llc,0,0,140,36
 2026-07-08,datf/calc-llc,0,0,103,24
 2026-07-09,datf/calc-llc,0,0,42,15
+2026-07-10,datf/calc-llc,0,0,8,5
 2026-06-07,datf/client-cert-manager,0,0,1,1
 2026-06-18,datf/client-cert-manager,0,0,1,1
 2026-06-19,datf/client-cert-manager,0,0,1,1
@@ -125,6 +126,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-07,datf/copier-svelte-test,0,0,2,2
 2026-07-08,datf/copier-svelte-test,0,0,3,3
 2026-07-09,datf/copier-svelte-test,0,0,2,2
+2026-07-10,datf/copier-svelte-test,0,0,2,2
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
 2026-06-07,datf/datf,0,0,1,1
@@ -153,6 +155,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-07,datf/datf,0,0,31,16
 2026-07-08,datf/datf,0,0,15,10
 2026-07-09,datf/datf,0,0,2,2
+2026-07-10,datf/datf,0,0,8,5
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-06,datf/dualnottouch,0,0,1,1
 2026-06-07,datf/dualnottouch,0,0,2,2
@@ -230,6 +233,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-07,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-08,datf/svelte-GitHubPages-template,0,0,3,3
 2026-07-09,datf/svelte-GitHubPages-template,0,0,2,2
+2026-07-10,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-16,datf/svelte-agents-template,0,0,5,5
 2026-06-17,datf/svelte-agents-template,0,0,1,1
 2026-06-18,datf/svelte-agents-template,0,0,1,1
@@ -291,7 +295,9 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-07,datf/svgmarquee,0,0,1,1
 2026-07-09,datf/svgmarquee,0,0,2,1
 2026-07-09,datf/test-svg-animations-on-github,0,0,37,26
+2026-07-10,datf/test-svg-animations-on-github,8,4,37,22
 2026-07-07,datf/traffic-data,0,0,3,3
+2026-07-10,datf/traffic-data,0,0,1,1
 2026-06-04,datf/vim-annoyme,0,0,1,1
 2026-06-07,datf/vim-annoyme,0,0,1,1
 2026-06-10,datf/vim-annoyme,0,0,1,1
