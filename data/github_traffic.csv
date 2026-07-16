@@ -16,6 +16,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-20,datf/KingOfTheHill,0,0,1,1
 2026-07-06,datf/KingOfTheHill,0,0,1,1
 2026-07-13,datf/PHP-HTTP-Tarpit,0,0,1,1
+2026-07-15,datf/PHP-HTTP-Tarpit,0,0,1,1
 2026-06-09,datf/RocketPlugin,0,0,1,1
 2026-06-11,datf/RocketPlugin,0,0,1,1
 2026-06-22,datf/RocketPlugin,0,0,1,1
@@ -74,6 +75,8 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-11,datf/calc-llc,0,0,2,2
 2026-07-12,datf/calc-llc,0,0,3,2
 2026-07-13,datf/calc-llc,0,0,4,3
+2026-07-14,datf/calc-llc,0,0,15,10
+2026-07-15,datf/calc-llc,0,0,16,8
 2026-06-07,datf/client-cert-manager,0,0,1,1
 2026-06-18,datf/client-cert-manager,0,0,1,1
 2026-06-19,datf/client-cert-manager,0,0,1,1
@@ -137,6 +140,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-12,datf/copier-svelte-test,0,0,3,3
 2026-07-13,datf/copier-svelte-test,0,0,1,1
 2026-07-14,datf/copier-svelte-test,0,0,1,1
+2026-07-15,datf/copier-svelte-test,0,0,2,2
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
 2026-06-07,datf/datf,0,0,1,1
@@ -170,6 +174,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-12,datf/datf,0,0,3,3
 2026-07-13,datf/datf,0,0,7,4
 2026-07-14,datf/datf,0,0,13,9
+2026-07-15,datf/datf,0,0,8,5
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-06,datf/dualnottouch,0,0,1,1
 2026-06-07,datf/dualnottouch,0,0,2,2
@@ -255,6 +260,8 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-11,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-12,datf/svelte-GitHubPages-template,0,0,3,3
 2026-07-13,datf/svelte-GitHubPages-template,0,0,2,1
+2026-07-14,datf/svelte-GitHubPages-template,0,0,1,1
+2026-07-15,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-16,datf/svelte-agents-template,0,0,5,5
 2026-06-17,datf/svelte-agents-template,0,0,1,1
 2026-06-18,datf/svelte-agents-template,0,0,1,1
