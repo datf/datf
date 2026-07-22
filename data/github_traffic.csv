@@ -85,6 +85,8 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-17,datf/calc-llc,0,0,50,16
 2026-07-18,datf/calc-llc,0,0,1,1
 2026-07-19,datf/calc-llc,0,0,3,2
+2026-07-20,datf/calc-llc,0,0,23,10
+2026-07-21,datf/calc-llc,0,0,16,6
 2026-06-07,datf/client-cert-manager,0,0,1,1
 2026-06-18,datf/client-cert-manager,0,0,1,1
 2026-06-19,datf/client-cert-manager,0,0,1,1
@@ -156,6 +158,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-18,datf/copier-svelte-test,0,0,2,2
 2026-07-19,datf/copier-svelte-test,0,0,3,3
 2026-07-20,datf/copier-svelte-test,0,0,2,2
+2026-07-21,datf/copier-svelte-test,0,0,2,2
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
 2026-06-07,datf/datf,0,0,1,1
@@ -195,6 +198,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-18,datf/datf,0,0,11,7
 2026-07-19,datf/datf,0,0,4,4
 2026-07-20,datf/datf,0,0,2,2
+2026-07-21,datf/datf,0,0,3,3
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-06,datf/dualnottouch,0,0,1,1
 2026-06-07,datf/dualnottouch,0,0,2,2
@@ -220,6 +224,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-28,datf/inputattach,0,0,1,1
 2026-07-01,datf/inputattach,0,0,1,1
 2026-07-12,datf/inputattach,0,0,1,1
+2026-07-21,datf/inputattach,0,0,2,2
 2026-06-01,datf/notion-py,0,0,1,1
 2026-06-18,datf/notion-py,0,0,1,1
 2026-06-29,datf/notion-py,0,0,1,1
@@ -288,6 +293,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-18,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-19,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-20,datf/svelte-GitHubPages-template,0,0,2,2
+2026-07-21,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-16,datf/svelte-agents-template,0,0,5,5
 2026-06-17,datf/svelte-agents-template,0,0,1,1
 2026-06-18,datf/svelte-agents-template,0,0,1,1
