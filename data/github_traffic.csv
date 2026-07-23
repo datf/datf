@@ -5,6 +5,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-20,datf/BakkesmodPluginTemplateV2,0,0,1,1
 2026-06-29,datf/BakkesmodPluginTemplateV2,0,0,2,2
 2026-07-11,datf/BakkesmodPluginTemplateV2,0,0,1,1
+2026-07-22,datf/BakkesmodPluginTemplateV2,0,0,1,1
 2026-06-04,datf/ChatForMe,0,0,1,1
 2026-06-05,datf/ChatForMe,0,0,1,1
 2026-06-19,datf/ChatForMe,0,0,1,1
@@ -16,6 +17,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-20,datf/KingOfTheHill,0,0,1,1
 2026-07-06,datf/KingOfTheHill,0,0,1,1
 2026-07-20,datf/KingOfTheHill,0,0,1,1
+2026-07-21,datf/KingOfTheHill,0,0,1,1
 2026-07-13,datf/PHP-HTTP-Tarpit,0,0,1,1
 2026-07-15,datf/PHP-HTTP-Tarpit,0,0,1,1
 2026-07-17,datf/PHP-HTTP-Tarpit,0,0,1,1
@@ -159,6 +161,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-19,datf/copier-svelte-test,0,0,3,3
 2026-07-20,datf/copier-svelte-test,0,0,2,2
 2026-07-21,datf/copier-svelte-test,0,0,2,2
+2026-07-22,datf/copier-svelte-test,0,0,2,2
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
 2026-06-07,datf/datf,0,0,1,1
@@ -294,6 +297,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-19,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-20,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-21,datf/svelte-GitHubPages-template,0,0,2,2
+2026-07-22,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-16,datf/svelte-agents-template,0,0,5,5
 2026-06-17,datf/svelte-agents-template,0,0,1,1
 2026-06-18,datf/svelte-agents-template,0,0,1,1
