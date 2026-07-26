@@ -11,6 +11,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-19,datf/ChatForMe,0,0,1,1
 2026-06-21,datf/ChatForMe,0,0,1,1
 2026-06-22,datf/ChatForMe,0,0,1,1
+2026-07-25,datf/ChatForMe,0,0,1,1
 2026-06-04,datf/KingOfTheHill,0,0,1,1
 2026-06-08,datf/KingOfTheHill,0,0,1,1
 2026-06-19,datf/KingOfTheHill,0,0,1,1
@@ -43,6 +44,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-09,datf/StdGEN,0,0,1,1
 2026-06-10,datf/StdGEN,0,0,2,2
 2026-07-01,datf/StdGEN,0,0,1,1
+2026-07-25,datf/StdGEN,0,0,1,1
 2026-06-03,datf/big-data-speed-test,0,0,1,1
 2026-06-20,datf/big-data-speed-test,0,0,1,1
 2026-07-08,datf/big-data-speed-test,0,0,1,1
@@ -117,6 +119,8 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-08,datf/copier-runner,0,0,1,1
 2026-07-12,datf/copier-runner,0,0,3,3
 2026-07-19,datf/copier-runner,0,0,2,2
+2026-07-24,datf/copier-runner,0,0,6,5
+2026-07-25,datf/copier-runner,0,0,3,3
 2026-06-04,datf/copier-svelte-test,0,0,55,30
 2026-06-05,datf/copier-svelte-test,0,0,53,33
 2026-06-06,datf/copier-svelte-test,0,0,3,3
@@ -209,6 +213,8 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-21,datf/datf,0,0,3,3
 2026-07-22,datf/datf,0,0,3,3
 2026-07-23,datf/datf,0,0,15,10
+2026-07-24,datf/datf,0,0,15,11
+2026-07-25,datf/datf,0,0,5,5
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-06,datf/dualnottouch,0,0,1,1
 2026-06-07,datf/dualnottouch,0,0,2,2
@@ -220,9 +226,12 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-01,datf/dualnottouch,0,0,1,1
 2026-07-04,datf/dualnottouch,0,0,1,1
 2026-07-12,datf/dualnottouch,0,0,1,1
+2026-07-24,datf/dualnottouch,0,0,1,1
 2026-06-04,datf/gaeTestCode,0,0,1,1
 2026-06-14,datf/gaeTestCode,0,0,1,1
 2026-07-23,datf/gaeTestCode,0,0,1,1
+2026-07-24,datf/hassio-caddy-custom,0,0,67,31
+2026-07-25,datf/hassio-caddy-custom,0,0,61,14
 2026-06-04,datf/inputattach,0,0,1,1
 2026-06-06,datf/inputattach,0,0,1,1
 2026-06-07,datf/inputattach,0,0,2,2
@@ -307,6 +316,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-21,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-22,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-23,datf/svelte-GitHubPages-template,0,0,2,2
+2026-07-24,datf/svelte-GitHubPages-template,0,0,3,3
 2026-06-16,datf/svelte-agents-template,0,0,5,5
 2026-06-17,datf/svelte-agents-template,0,0,1,1
 2026-06-18,datf/svelte-agents-template,0,0,1,1
@@ -361,6 +371,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-20,datf/sveltekit-github-pages-config-dockerized,0,0,2,2
 2026-07-23,datf/sveltekit-github-pages-config-dockerized,0,0,1,1
 2026-07-24,datf/sveltekit-github-pages-config-dockerized,0,0,13,11
+2026-07-25,datf/sveltekit-github-pages-config-dockerized,0,0,1,1
 2026-06-04,datf/svgmarquee,0,0,4,3
 2026-06-06,datf/svgmarquee,0,0,1,1
 2026-06-07,datf/svgmarquee,3,3,1,1
@@ -385,6 +396,8 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-16,datf/svgmarquee,0,0,2,1
 2026-07-20,datf/svgmarquee,0,0,1,1
 2026-07-23,datf/svgmarquee,0,0,2,1
+2026-07-24,datf/svgmarquee,0,0,19,12
+2026-07-25,datf/svgmarquee,0,0,2,2
 2026-07-09,datf/test-svg-animations-on-github,0,0,37,26
 2026-07-10,datf/test-svg-animations-on-github,8,4,37,22
 2026-07-11,datf/test-svg-animations-on-github,7,1,3,3
