@@ -109,6 +109,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-28,datf/calc-llc,0,0,22,9
 2026-07-29,datf/calc-llc,0,0,4,4
 2026-07-30,datf/calc-llc,0,0,7,4
+2026-07-31,datf/calc-llc,0,0,7,5
 2026-06-07,datf/client-cert-manager,0,0,1,1
 2026-06-18,datf/client-cert-manager,0,0,1,1
 2026-06-19,datf/client-cert-manager,0,0,1,1
@@ -117,6 +118,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-06-26,datf/client-cert-manager,0,0,1,1
 2026-07-18,datf/client-cert-manager,0,0,1,1
 2026-07-28,datf/client-cert-manager,0,0,1,1
+2026-07-31,datf/client-cert-manager,0,0,1,1
 2026-06-14,datf/copier-runner,0,0,55,33
 2026-06-15,datf/copier-runner,0,0,3,3
 2026-06-16,datf/copier-runner,0,0,31,16
@@ -196,6 +198,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-28,datf/copier-svelte-test,0,0,2,2
 2026-07-29,datf/copier-svelte-test,0,0,2,2
 2026-07-30,datf/copier-svelte-test,0,0,2,2
+2026-07-31,datf/copier-svelte-test,0,0,2,2
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
 2026-06-07,datf/datf,0,0,1,1
@@ -272,6 +275,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-29,datf/hassio-caddy-custom,0,0,113,17
 2026-07-30,datf/hassio-caddy-custom,0,0,566,59
 2026-07-31,datf/hassio-caddy-custom,0,0,42,15
+2026-08-01,datf/hassio-caddy-custom,0,0,1,1
 2026-06-04,datf/inputattach,0,0,1,1
 2026-06-06,datf/inputattach,0,0,1,1
 2026-06-07,datf/inputattach,0,0,2,2
@@ -318,6 +322,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-31,datf/repository-beta,0,0,5,5
 2026-07-29,datf/repository-edge,0,0,10,10
 2026-07-30,datf/repository-edge,0,0,62,43
+2026-07-31,datf/repository-edge,0,0,11,11
 2026-07-30,datf/repository-updater,0,0,10,5
 2026-06-09,datf/svelte-GitHubPages-template,0,0,42,26
 2026-06-10,datf/svelte-GitHubPages-template,0,0,7,6
@@ -492,3 +497,4 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-26,datf/vim-annoyme,0,0,1,1
 2026-07-27,datf/vim-annoyme,0,0,1,1
 2026-07-28,datf/vim-annoyme,0,0,1,1
+2026-07-31,datf/vim-annoyme,0,0,1,1
