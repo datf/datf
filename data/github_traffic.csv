@@ -1,5 +1,8 @@
 date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-29,datf/.github,0,0,2,2
+2026-08-02,datf/.github,0,0,1,1
+2026-08-03,datf/.github,0,0,1,1
+2026-08-04,datf/.github,0,0,1,1
 2026-06-04,datf/BakkesmodPluginTemplateV2,0,0,2,2
 2026-06-10,datf/BakkesmodPluginTemplateV2,0,0,1,1
 2026-06-13,datf/BakkesmodPluginTemplateV2,0,0,1,1
@@ -25,6 +28,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-26,datf/KingOfTheHill,0,0,1,1
 2026-07-27,datf/KingOfTheHill,0,0,2,2
 2026-07-30,datf/KingOfTheHill,0,0,1,1
+2026-08-02,datf/KingOfTheHill,0,0,1,1
 2026-07-13,datf/PHP-HTTP-Tarpit,0,0,1,1
 2026-07-15,datf/PHP-HTTP-Tarpit,0,0,1,1
 2026-07-17,datf/PHP-HTTP-Tarpit,0,0,1,1
@@ -114,6 +118,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-01,datf/calc-llc,0,0,1,1
 2026-08-02,datf/calc-llc,0,0,2,1
 2026-08-03,datf/calc-llc,0,0,25,11
+2026-08-04,datf/calc-llc,0,0,1,1
 2026-06-07,datf/client-cert-manager,0,0,1,1
 2026-06-18,datf/client-cert-manager,0,0,1,1
 2026-06-19,datf/client-cert-manager,0,0,1,1
@@ -205,6 +210,9 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-29,datf/copier-svelte-test,0,0,2,2
 2026-07-30,datf/copier-svelte-test,0,0,2,2
 2026-07-31,datf/copier-svelte-test,0,0,2,2
+2026-08-01,datf/copier-svelte-test,0,0,2,2
+2026-08-02,datf/copier-svelte-test,0,0,3,3
+2026-08-03,datf/copier-svelte-test,0,0,2,2
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
 2026-06-07,datf/datf,0,0,1,1
@@ -255,6 +263,10 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-29,datf/datf,0,0,2,2
 2026-07-30,datf/datf,1,1,2,2
 2026-07-31,datf/datf,0,0,2,2
+2026-08-01,datf/datf,0,0,3,3
+2026-08-02,datf/datf,0,0,2,2
+2026-08-03,datf/datf,0,0,2,2
+2026-08-04,datf/datf,0,0,3,3
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-06,datf/dualnottouch,0,0,1,1
 2026-06-07,datf/dualnottouch,0,0,2,2
@@ -273,6 +285,9 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-29,datf/hassio-addons,0,0,26,22
 2026-07-30,datf/hassio-addons,0,0,44,25
 2026-07-31,datf/hassio-addons,0,0,5,4
+2026-08-01,datf/hassio-addons,0,0,3,2
+2026-08-02,datf/hassio-addons,0,0,1,1
+2026-08-03,datf/hassio-addons,0,0,1,1
 2026-07-24,datf/hassio-caddy-custom,0,0,67,31
 2026-07-25,datf/hassio-caddy-custom,0,0,61,14
 2026-07-26,datf/hassio-caddy-custom,0,0,23,9
@@ -284,6 +299,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-01,datf/hassio-caddy-custom,0,0,1,1
 2026-08-02,datf/hassio-caddy-custom,0,0,3,3
 2026-08-03,datf/hassio-caddy-custom,0,0,2,2
+2026-08-04,datf/hassio-caddy-custom,0,0,4,3
 2026-06-04,datf/inputattach,0,0,1,1
 2026-06-06,datf/inputattach,0,0,1,1
 2026-06-07,datf/inputattach,0,0,2,2
@@ -389,6 +405,9 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-29,datf/svelte-GitHubPages-template,0,0,3,3
 2026-07-30,datf/svelte-GitHubPages-template,0,0,2,2
 2026-07-31,datf/svelte-GitHubPages-template,0,0,2,2
+2026-08-01,datf/svelte-GitHubPages-template,0,0,2,2
+2026-08-02,datf/svelte-GitHubPages-template,0,0,3,3
+2026-08-03,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-16,datf/svelte-agents-template,0,0,5,5
 2026-06-17,datf/svelte-agents-template,0,0,1,1
 2026-06-18,datf/svelte-agents-template,0,0,1,1
@@ -401,6 +420,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-12,datf/svelte-agents-template,0,0,1,1
 2026-07-24,datf/svelte-agents-template,0,0,1,1
 2026-07-29,datf/svelte-agents-template,0,0,1,1
+2026-08-02,datf/svelte-agents-template,0,0,1,1
 2026-06-04,datf/svelte-static-page,0,0,1,1
 2026-06-06,datf/svelte-static-page,0,0,1,1
 2026-06-07,datf/svelte-static-page,0,0,1,1
