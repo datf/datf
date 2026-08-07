@@ -29,6 +29,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-27,datf/KingOfTheHill,0,0,2,2
 2026-07-30,datf/KingOfTheHill,0,0,1,1
 2026-08-02,datf/KingOfTheHill,0,0,1,1
+2026-08-05,datf/KingOfTheHill,0,0,1,1
 2026-07-13,datf/PHP-HTTP-Tarpit,0,0,1,1
 2026-07-15,datf/PHP-HTTP-Tarpit,0,0,1,1
 2026-07-17,datf/PHP-HTTP-Tarpit,0,0,1,1
@@ -119,6 +120,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-02,datf/calc-llc,0,0,2,1
 2026-08-03,datf/calc-llc,0,0,25,11
 2026-08-04,datf/calc-llc,0,0,1,1
+2026-08-05,datf/calc-llc,0,0,3,3
 2026-06-07,datf/client-cert-manager,0,0,1,1
 2026-06-18,datf/client-cert-manager,0,0,1,1
 2026-06-19,datf/client-cert-manager,0,0,1,1
@@ -214,6 +216,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-02,datf/copier-svelte-test,0,0,3,3
 2026-08-03,datf/copier-svelte-test,0,0,2,2
 2026-08-04,datf/copier-svelte-test,0,0,2,2
+2026-08-05,datf/copier-svelte-test,0,0,2,2
 2026-06-05,datf/datf,0,0,1,1
 2026-06-06,datf/datf,0,0,3,2
 2026-06-07,datf/datf,0,0,1,1
@@ -269,6 +272,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-03,datf/datf,0,0,2,2
 2026-08-04,datf/datf,0,0,3,3
 2026-08-05,datf/datf,0,0,15,10
+2026-08-06,datf/datf,0,0,4,3
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-06,datf/dualnottouch,0,0,1,1
 2026-06-07,datf/dualnottouch,0,0,2,2
@@ -304,6 +308,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-02,datf/hassio-caddy-custom,0,0,3,3
 2026-08-03,datf/hassio-caddy-custom,0,0,2,2
 2026-08-04,datf/hassio-caddy-custom,0,0,4,3
+2026-08-06,datf/hassio-caddy-custom,0,0,105,16
 2026-06-04,datf/inputattach,0,0,1,1
 2026-06-06,datf/inputattach,0,0,1,1
 2026-06-07,datf/inputattach,0,0,2,2
@@ -318,6 +323,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-12,datf/inputattach,0,0,1,1
 2026-07-21,datf/inputattach,0,0,2,2
 2026-07-25,datf/inputattach,0,0,1,1
+2026-08-05,datf/inputattach,0,0,1,1
 2026-06-01,datf/notion-py,0,0,1,1
 2026-06-18,datf/notion-py,0,0,1,1
 2026-06-29,datf/notion-py,0,0,1,1
@@ -350,14 +356,18 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-31,datf/repository-beta,0,0,5,5
 2026-08-02,datf/repository-beta,0,0,1,1
 2026-08-04,datf/repository-beta,0,0,1,1
+2026-08-05,datf/repository-beta,0,0,1,1
 2026-07-29,datf/repository-edge,0,0,10,10
 2026-07-30,datf/repository-edge,0,0,62,43
 2026-07-31,datf/repository-edge,0,0,11,11
 2026-08-02,datf/repository-edge,0,0,1,1
 2026-08-04,datf/repository-edge,0,0,1,1
+2026-08-05,datf/repository-edge,0,0,1,1
+2026-08-06,datf/repository-edge,0,0,6,6
 2026-07-30,datf/repository-updater,0,0,10,5
 2026-08-02,datf/repository-updater,0,0,1,1
 2026-08-03,datf/repository-updater,0,0,1,1
+2026-08-05,datf/repository-updater,0,0,3,1
 2026-06-09,datf/svelte-GitHubPages-template,0,0,42,26
 2026-06-10,datf/svelte-GitHubPages-template,0,0,7,6
 2026-06-11,datf/svelte-GitHubPages-template,0,0,6,3
@@ -483,6 +493,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-02,datf/sveltekit-github-pages-config-dockerized,0,0,2,2
 2026-08-03,datf/sveltekit-github-pages-config-dockerized,0,0,53,23
 2026-08-04,datf/sveltekit-github-pages-config-dockerized,0,0,2,2
+2026-08-05,datf/sveltekit-github-pages-config-dockerized,0,0,2,1
 2026-06-04,datf/svgmarquee,0,0,4,3
 2026-06-06,datf/svgmarquee,0,0,1,1
 2026-06-07,datf/svgmarquee,3,3,1,1
@@ -535,6 +546,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-07-28,datf/traffic-data,0,0,1,1
 2026-08-01,datf/traffic-data,0,0,1,1
 2026-08-02,datf/traffic-data,0,0,1,1
+2026-08-05,datf/traffic-data,0,0,10,7
 2026-06-04,datf/vim-annoyme,0,0,1,1
 2026-06-07,datf/vim-annoyme,0,0,1,1
 2026-06-10,datf/vim-annoyme,0,0,1,1
