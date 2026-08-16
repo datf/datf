@@ -64,6 +64,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/app-dante,0,0,27,11
 2026-08-12,datf/app-dante,0,0,2,2
 2026-08-13,datf/app-dante,0,0,219,46
+2026-08-14,datf/app-dante-to-wireguard,0,0,142,36
 2026-06-03,datf/big-data-speed-test,0,0,1,1
 2026-06-20,datf/big-data-speed-test,0,0,1,1
 2026-07-08,datf/big-data-speed-test,0,0,1,1
@@ -134,6 +135,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/calc-llc,0,0,16,6
 2026-08-12,datf/calc-llc,0,0,1,1
 2026-08-13,datf/calc-llc,0,0,2,2
+2026-08-14,datf/calc-llc,0,0,1,1
 2026-06-07,datf/client-cert-manager,0,0,1,1
 2026-06-18,datf/client-cert-manager,0,0,1,1
 2026-06-19,datf/client-cert-manager,0,0,1,1
@@ -304,6 +306,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/datf,0,0,11,7
 2026-08-12,datf/datf,0,0,2,2
 2026-08-13,datf/datf,0,0,8,5
+2026-08-14,datf/datf,0,0,2,2
 2026-06-04,datf/dualnottouch,0,0,2,2
 2026-06-06,datf/dualnottouch,0,0,1,1
 2026-06-07,datf/dualnottouch,0,0,2,2
@@ -335,6 +338,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/hassio-addons,0,0,1,1
 2026-08-12,datf/hassio-addons,0,0,3,3
 2026-08-13,datf/hassio-addons,0,0,27,18
+2026-08-14,datf/hassio-addons,0,0,25,15
 2026-07-24,datf/hassio-caddy-custom,0,0,67,31
 2026-07-25,datf/hassio-caddy-custom,0,0,61,14
 2026-07-26,datf/hassio-caddy-custom,0,0,23,9
@@ -353,6 +357,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-09,datf/hassio-caddy-custom,0,0,1,1
 2026-08-10,datf/hassio-caddy-custom,0,0,3,3
 2026-08-12,datf/hassio-caddy-custom,0,0,3,2
+2026-08-14,datf/hassio-caddy-custom,0,0,2,1
 2026-06-04,datf/inputattach,0,0,1,1
 2026-06-06,datf/inputattach,0,0,1,1
 2026-06-07,datf/inputattach,0,0,2,2
@@ -409,6 +414,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/repository-beta,0,0,1,1
 2026-08-12,datf/repository-beta,0,0,2,2
 2026-08-13,datf/repository-beta,0,0,28,22
+2026-08-14,datf/repository-beta,0,0,5,5
 2026-07-29,datf/repository-edge,0,0,10,10
 2026-07-30,datf/repository-edge,0,0,62,43
 2026-07-31,datf/repository-edge,0,0,11,11
@@ -422,6 +428,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/repository-edge,0,0,3,3
 2026-08-12,datf/repository-edge,0,0,1,1
 2026-08-13,datf/repository-edge,0,0,14,13
+2026-08-14,datf/repository-edge,0,0,25,19
 2026-07-30,datf/repository-updater,0,0,10,5
 2026-08-02,datf/repository-updater,0,0,1,1
 2026-08-03,datf/repository-updater,0,0,1,1
@@ -496,6 +503,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/svelte-GitHubPages-template,0,0,2,2
 2026-08-12,datf/svelte-GitHubPages-template,0,0,2,2
 2026-08-13,datf/svelte-GitHubPages-template,0,0,2,2
+2026-08-14,datf/svelte-GitHubPages-template,0,0,2,2
 2026-06-16,datf/svelte-agents-template,0,0,5,5
 2026-06-17,datf/svelte-agents-template,0,0,1,1
 2026-06-18,datf/svelte-agents-template,0,0,1,1
@@ -571,6 +579,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/sveltekit-github-pages-config-dockerized,0,0,2,2
 2026-08-12,datf/sveltekit-github-pages-config-dockerized,0,0,2,1
 2026-08-13,datf/sveltekit-github-pages-config-dockerized,0,0,3,3
+2026-08-14,datf/sveltekit-github-pages-config-dockerized,0,0,1,1
 2026-06-04,datf/svgmarquee,0,0,4,3
 2026-06-06,datf/svgmarquee,0,0,1,1
 2026-06-07,datf/svgmarquee,3,3,1,1
@@ -638,6 +647,7 @@ date,repository,views_total,views_unique,clones_total,clones_unique
 2026-08-11,datf/traffic-data,0,0,3,2
 2026-08-12,datf/traffic-data,0,0,2,2
 2026-08-13,datf/traffic-data,0,0,2,2
+2026-08-14,datf/traffic-data,0,0,1,1
 2026-06-04,datf/vim-annoyme,0,0,1,1
 2026-06-07,datf/vim-annoyme,0,0,1,1
 2026-06-10,datf/vim-annoyme,0,0,1,1
